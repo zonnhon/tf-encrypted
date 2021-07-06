@@ -36,7 +36,7 @@ class ModelOwner:
                  representing the model owner.
   """
 
-    epochs = 21
+    epochs = 11
     LEARNING_RATE = 0.1
     party = 4
     batchsize = 128
